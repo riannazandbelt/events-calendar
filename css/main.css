@@ -1,3 +1,48 @@
 html {
   font-family: Merriweather, serif;
 }
+
+.vostok {
+  border: 1px solid #666;
+  border-radius: 8px;
+  background-color: #ccc;
+  color: #333;
+}
+
+.remembrance {
+  border: 1px solid #b92828;
+  border-radius: 8px;
+  background-color: #f2bcbc;
+  color: #991919;
+}
+
+.kosmos {
+  border: 1px solid #666;
+  border-radius: 8px;
+  background-color: #ccc;
+  color: #333;
+}
+
+.surtsey {
+
+}
+
+.robert {
+
+}
+
+.india {
+
+}
+
+.death {
+
+}
+
+.doctor {
+
+}
+
+.explorer {
+
+}
