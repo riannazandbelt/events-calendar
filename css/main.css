@@ -24,25 +24,43 @@ html {
 }
 
 .surtsey {
-
+  border: 1px solid #6b7e54;
+  border-radius: 8px;
+  background-color: #d1e0bf;
+  color: #51603f;
 }
 
 .robert {
-
+  border: 1px solid #6b7e54;
+  border-radius: 8px;
+  background-color: #d1e0bf;
+  color: #51603f;
 }
 
 .india {
-
+  border: 1px solid #666;
+  border-radius: 8px;
+  background-color: #ccc;
+  color: #333;
 }
 
 .death {
-
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+  background-color: #d2d6f0;
+  color: #38448e;
 }
 
 .doctor {
-
+  border: 1px solid #1d38da;
+  border-radius: 8px;
+  background-color: #d2d6f0;
+  color: #38448e;
 }
 
 .explorer {
-
+  border: 1px solid #666;
+  border-radius: 8px;
+  background-color: #ccc;
+  color: #333;
 }
